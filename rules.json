@@ -1,0 +1,7 @@
+{
+  "registration" : true,
+  "grades" : true,
+  "audit" : true,
+  "recheck" : true,
+  "graduation" : true
+}
